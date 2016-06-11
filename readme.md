@@ -19,6 +19,8 @@ Since his first years of studies at the ENSCI-Les Ateliers (the Advanced Nationa
 
 ## ESSOR II
 
+![picture from ESSOR II](https://github.com/lsocrate/civilizing-space/raw/master/imgs/room.jpg)
+
 ESSOR is a **research program focusing on spacecraft interiors** and habitability. The study if exclusively conducted using **full-scale models** that allow both the **conception and representation** of the habitat of a space environment.
 
 Disregarding the up/down order of things, i.e. leaving out verticality, turns out to be rather difficult using only hand drafting or 3D modelling. Indeed, when it comes to space, the residents don't live on surfaces: instead, **they occupy the entire volume of a habitat**. This means that they can move in any direction and reach any surface: there's no such thing as ceilings o floors, chairs or beds or the *right* or *wrong* **orientation**. And this is where full-scale models prove to be very helpful, since a model can be flipped, hung upside down and even explored from inside.
@@ -78,6 +80,8 @@ And example of the latter is the conception and design of a **free-fall device**
 Just like the aquarium experiment, Reichelt saw the designer **through various stages of reflection** and consideration: first, it allowed the testing of various types of folds, just by putting simple tubes inside, then, later, the confirmation of the correct shape for the bottle that would give an **optimal interaction with the liquid**. Simple, efficient and a little crazy, *Reichelt* became the symbol for the *Distiller One* adventure.
 
 ## The corner effect
+
+![picture from the bottle](https://github.com/lsocrate/civilizing-space/raw/master/imgs/bottle.jpg)
 
 In the absence of gravity, it is not only the weight of objects that is affected. Weightlesness also reveals **forces that are largely hidden on Earth** by the force of gravity. Amongst these forces, surface tension --- that is, when two surfaces meet, be they liquid, solid or gas --- can produce some surprising phenomena. **Liquids, for example, have the tendency to form themselves into spheres**, reducing their area of surface contact with the air to a minimum. And, when in contact with certain shapes or materials, these same liquids can either spread out thinly over a surface or be repelled by them.  The force of adhesion, the determining factor in this interaction depends on the solid, liquid or gas involved. So, in space, it is essential **to take into account the parameters** that govern the behavior of fluids in zero gravity, even though they are practically immeasurable on Earth.
 
